@@ -1,0 +1,2 @@
+# Smart-Transformer-And-Fault-Detection-Using-IOT-Sensors
+Designed an IoT-based smart transformer monitoring and fault detection system using ESP32 microcontroller and sensors for voltage, current, temperature, humidity, and oil level. Compares readings against predefined limits to detect overloads, overheating, and moisture, enabling real-time remote monitoring, SMS alerts, and predictive maintenance.
